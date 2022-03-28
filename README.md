@@ -125,8 +125,8 @@ response
         "exhaustiveNbHits":false,
         "query":"fast cars",
         "limit":20,
-        "offset":0,"
-        processingTimeMs":7
+        "offset":0,
+        "processingTimeMs":7
 
 }
 ```
